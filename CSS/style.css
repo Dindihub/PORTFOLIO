@@ -99,3 +99,19 @@
         display: flex;
         justify-content: center;
     }
+    
+    .code {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .img2 {
+        max-width: 800px;
+        padding: 30px;
+    }
+    
+    .projects-link {
+        text-decoration: none;
+        color: #fff;
+        list-style: none;
+    }
