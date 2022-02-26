@@ -8,3 +8,42 @@ body {
     background-color: #000;
     color: #fff;
 }
+
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+}
+
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.name {
+    display: flex;
+    justify-content: flex-start;
+    color: red;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+ul {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    justify-content: space-around;
+    color: red;
+}
+
+.nav-links {
+    display: flex;
+    margin-right: 1rem;
+}
+
+
+/*end of header styling*/
+
+
+/*start of body styling/*
