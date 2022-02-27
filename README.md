@@ -1,9 +1,6 @@
-# Application Name
-Portfolio Website
-#### Brief description of application
-Website
-### List of contributors
-Sandra Dindi
+# Portfolio Website
+#### Website
+### Sandra Dindi
 ## Description
 A simple website that includes my profile,projects and contact details
 ## Setup/Installation Instructions
