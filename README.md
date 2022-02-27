@@ -1,6 +1,6 @@
 # Portfolio Website
 #### Website
-### Sandra Dindi
+### By Sandra Dindi
 ## Description
 A simple website that includes my profile,projects and contact details
 ## Setup/Installation Instructions
